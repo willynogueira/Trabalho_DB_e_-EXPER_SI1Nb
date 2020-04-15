@@ -13,6 +13,6 @@ Tema
 
  • Salário é relativo a cada cargo destinado ao funcionário.
  
- • Cliente serão todos em disvesas areas.
+ • Clientes serão todos em disvesas modalidades como fast food, encomendas em longas distâncias.
  
  • Produto serar a prestação de serviços de entraga tanto como alimentos ou objetos diversos.
