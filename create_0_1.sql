@@ -1,6 +1,3 @@
-Drop All Table;
-
-
 create table Funcionario (
 id Number not null ,
 Matricula Number(32) not null,
