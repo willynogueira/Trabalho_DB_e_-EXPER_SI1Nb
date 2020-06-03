@@ -1,8 +1,3 @@
-> * [Trabalho] de Banco de Dados 1
-
- 
- 
-
 ### Trabalho de Banco de Dados 1
 
 
@@ -10,14 +5,14 @@
 ### Tema
 > * Empresa • Presidente • Funcionário • Salário • Cliente • Produto • Filial
 
-> • Empresa criada para fornecer serviços de entrega, e filiais .
+> * Empresa criada para fornecer serviços de entrega, e filiais .
 
-> • Presidente é formado em bacharelado ciências da computação.
+> *  Presidente é formado em bacharelado ciências da computação.
 
-> • Funcionário trabalham para fazer entregas especificadas com base nos dados recebidos.
+> * Funcionário trabalham para fazer entregas especificadas com base nos dados recebidos.
 
->  • Salário é relativo a cada cargo destinado ao funcionário.
+> * Salário é relativo a cada cargo destinado ao funcionário.
 
->  • Clientes serão todos em disvesas modalidades como fast food, encomendas em longas distâncias.
+> * Clientes serão todos em disvesas modalidades .
 
->  • Produto serar a prestação de serviços de entraga tanto como alimentos ou objetos diversos.
+> * Produto serar a prestação de serviços diversos.
