@@ -8,7 +8,7 @@
 
 ## Turma: SI1Nb          ---    Integrante: Willy Alves Nogueira
 ### Tema
-> • Empresa • Presidente • Funcionário • Salário • Cliente • Produto • Filial
+> * Empresa • Presidente • Funcionário • Salário • Cliente • Produto • Filial
 
 > • Empresa criada para fornecer serviços de entrega, e filiais .
 
