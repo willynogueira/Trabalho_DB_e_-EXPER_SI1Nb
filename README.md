@@ -13,8 +13,7 @@
 <h4> Consultas e Operações no Banco de Dados</h4><br>
 • O banco de dados a ser modelado precisa, necessáriamente, ser capaz de responder todas as consultas listadas a seguir, assim como as operações descritas.<br>
 <hr>
-<h3> Operações usuarios/clientes:</h3><br>
-
+<h3> Operações usuarios/clientes:</h3>
 • Cadastrar sua conta<br>
 • Comparar pacotes preço/tempo<br>
 • Cadastrar formas de pagamento<br>
@@ -29,8 +28,7 @@
 • Equipe de suporte ao consumidor<br>
 
 <hr>
-<h3> Consultas administrativas:</h3> <br>
-
+<h3> Consultas administrativas:</h3>
 • Consultar dados do cliente<br>
 • Consultar imóveis disponíveis<br>
 • Consultar pacotes disponíveis<br>
@@ -49,10 +47,8 @@
 • Quais imóveis próximos a fornecimentos de produtos<br>
 • Alugou<br>
 
-
 <hr>
-<h3> Operações Administrativas:</h3> <br>
-
+<h3> Operações Administrativas:</h3>
 • Cadastro de um novo imóvel para aluguel<br>
 • Retirada de um imóvel que está imóvel/anuncio<br>
 • Alteração dos dados de um imóvel<br>
