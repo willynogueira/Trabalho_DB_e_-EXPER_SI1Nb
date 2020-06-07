@@ -6,7 +6,7 @@
 ### Descrição do Cenário:
 > * Uma Agencia de viagens está implantando no mercado web site e app mobile em um sistema que permita o gerenciamento dos imóveis disponíveis para aluguel.
 
-> * O sistema permitirá que os proprietários cadastrados forneção para agencia seus imóveis para locação.
+> * O sistema permitirá que os proprietários cadastrados fornecedores para agencia com imóveis para locação.
 
 > * O sistema também permitirá o cadastro dos corretores, e será capaz de emitir relatórios sobre o desempenho de cada um deles.
 
