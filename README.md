@@ -1,4 +1,4 @@
-## Trabalho de Banco de Dados 1
+## Trabalho de Banco de Dados 1 e UX DESIGNER
 
 
 ### Turma: SI1Nb          ---    Integrante: Willy Alves Nogueira
