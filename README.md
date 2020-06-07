@@ -18,7 +18,7 @@ aluguel ou compra do pacote pela web site/app mobile ou agende uma visita na age
 > * Consultas e Operações no Banco de Dados
 O banco de dados a ser modelado precisa, necessáriamente, ser capaz de responder todas as consultas listadas a seguir, assim como as operações descritas.
 <hr>
-### Operações usuarios/clientes:
+<h2> Operações usuarios/clientes:</h2>
 
 > * Cadastrar sua conta
 > * Comparar pacotes preço/tempo
