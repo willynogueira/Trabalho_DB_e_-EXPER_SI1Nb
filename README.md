@@ -14,7 +14,7 @@
 aluguel ou compra do pacote pela web site/app mobile ou agende uma visita na agencia.
 
 > * Quando um pacote ou promoção é anunciado, é necessário que o sistema atribua todos os recusos proximos e relacionados a descrição.
-<hr>
+<hr></hr>
 > * Consultas e Operações no Banco de Dados
 O banco de dados a ser modelado precisa, necessáriamente, ser capaz de responder todas as consultas listadas a seguir, assim como as operações descritas.
 <hr>
