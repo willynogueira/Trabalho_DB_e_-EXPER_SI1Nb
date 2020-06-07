@@ -16,7 +16,7 @@ aluguel ou compra do pacote pela web site/app mobile ou agende uma visita na age
 > * Quando um pacote ou promoção é anunciado, é necessário que o sistema atribua todos os recusos proximos e relacionados a descrição.
 <hr>
 <h4> Consultas e Operações no Banco de Dados</h4>
-> * O banco de dados a ser modelado precisa, necessáriamente, ser capaz de responder todas as consultas listadas a seguir, assim como as operações descritas.
+> • O banco de dados a ser modelado precisa, necessáriamente, ser capaz de responder todas as consultas listadas a seguir, assim como as operações descritas.
 <hr>
 <h3> Operações usuarios/clientes:</h3>
 
