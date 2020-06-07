@@ -18,7 +18,7 @@ aluguel ou compra do pacote pela web site/app mobile ou agende uma visita na age
 > * Consultas e Operações no Banco de Dados
 O banco de dados a ser modelado precisa, necessáriamente, ser capaz de responder todas as consultas listadas a seguir, assim como as operações descritas.
 <hr>
-### > * Operações usuarios/clientes:
+### Operações usuarios/clientes:
 
 > * Cadastrar sua conta
 > * Comparar pacotes preço/tempo
@@ -34,7 +34,7 @@ O banco de dados a ser modelado precisa, necessáriamente, ser capaz de responde
 > * Equipe de suporte ao consumidor
 
 <hr>
-### > * Consultas administrativas:
+### Consultas administrativas:
 
 > * Consultar dados do cliente
 > * Consultar imóveis disponiveis
@@ -55,7 +55,7 @@ O banco de dados a ser modelado precisa, necessáriamente, ser capaz de responde
 > * alugou
 
 <hr>
-### > * Operações Administrativas:
+### Operações Administrativas:
 
 > * Cadastro de um novo imóvel para aluguel
 > * Retirada de um imóvel que está imóvel/anuncio
